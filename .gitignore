@@ -1,0 +1,7 @@
+*.class
+# Ignore VS Code settings
+.vscode/
+
+# Ignore other IDE-related files (optional)
+.idea/
+*.iml
